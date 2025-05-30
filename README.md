@@ -1,40 +1,35 @@
-# **NagiBotV2 - El Bot de WhatsApp más Insano**
+### ¡Hola! 👋
 
-¡Prepárate para llevar tu experiencia en WhatsApp al siguiente nivel! **NagiBotV2** es un bot multiusos, rápido, poderoso y 100% personalizable. Desde comandos divertidos hasta herramientas de moderación, este bot lo tiene *TODO*.
+![Nagi Seishiro](https://n.uguu.se/VSrtsyrw.gif)
 
-**Características insanas:**
-- Sistema de comandos con respuesta ultra rápida  
-- Integración con APIs para obtener datos en tiempo real  
-- Stickers, memes, música, inteligencia artificial y más  
-- Soporte para grupos, respuestas automáticas y anti-spam  
-- Fácil de configurar y desplegar (¡no necesitas ser hacker!)
+Soy un entusiasta de *Blue Lock* y fan de Nagi Seishiro.
 
-**Tecnología:** Node.js | Baileys | JavaScript  
-**Modo:** Usuario-Bot / Multi-device
+# 🌀 NagiBotV2 — Bot de WhatsApp MultiDispositivo
 
-**¿Listo para dominar WhatsApp como un pro? Clona, edita y despliega tu propio imperio digital.**
+**NagiBotV2** es un bot de WhatsApp creado con [`@whiskeysockets/baileys`](https://github.com/WhiskeySockets/Baileys), basado en Node.js, diseñado para ser rápido, funcional y personalizable. 🧠
 
-> *“No es magia, es código insano.”*
+---
 
+## 🚀 Características
 
+- ✅ Soporte para WhatsApp Multi-Dispositivo (MD)
+- 🤖 Comandos personalizables
+- 🔄 Reconexión automática
+- 📦 Fácil de alojar en servidores (Render, Railway, Replit, etc.)
+- 🎮 Base lista para añadir sistemas como mascotas virtuales, admins, música, etc.
 
-<h1 align="center">ＮＡＧＩＢＯＴＶ２</p>
-<p>
-        <img src= "https://n.uguu.se/VSrtsyrw.gif">
-    </p>
-    <p align="center">
-<p align="center">
-<a href="#"><img title="NyanBot" src="https://img.shields.io/badge/🐬𝐍𝐚𝐠𝐢𝐁𝐨𝐭 | 🔥𝘽𝙧𝙖𝙮𝙖𝙣𝟯𝟯𝟬🔥 | 𝐁𝐫𝐚𝐲𝐚𝐧 𝐲 𝐕𝐚𝐥𝐞𝐫𝐢𝐚💓-black?colorA=%23ff0000&colorB=%23000000&style=for-the-badge"></a>
-  
----------
+---
 
-### **`INSTALA TERMUX NUEVA VERSIÓN`**
-<a
-href="https://www.mediafire.com/file/3hsvi3xkpq3a64o/termux_118.a"><img src="https://qu.ax/finc.jpg" height="125px"></a>
+## ⚙️ Requisitos
 
-<div align=>
+- Node.js v18 o superior
+- Git
+- Cuenta de WhatsApp activa
+- Token de servidor si usarás hosting externo (opcional)
 
-#### **<img src="https://i.imgur.com/n1zo2wL.gif" width="30" height="30"/>  `Instalación manual por termux`**
+---
+
+## 📦 Instalación
 > copie y peguen en termux uno por uno 
 ```bash
 termux-setup-storage
@@ -60,14 +55,3 @@ yarn install && npm install
 npm start
 ```
 ---------
-
-
-<a href="https://github.com/El-brayan502/BROLYBOT-MD" target="_blank"> 
-    <img src="https://i.ibb.co/QrkLbP4/file.jpg" alt="" width="150"/> 
-</a> 
-
-## `EDITOR Y PROPIETARIO DEL BOT` 
-BrayanCrazzy ![preview](https://user-images.githubusercontent.com/100887441/156953527-740d110d-3ee5-41e5-9899-fd4d4b248d43.gif)
-
-```bash
-ＮＡＧＩＢＯＴＶ２ ___ By BrayanCrazzy
