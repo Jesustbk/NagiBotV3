@@ -81,4 +81,10 @@ npm start
   </tr>
 </table>
 
+### 🌟 AGRADECIMIENTOS
+[![TheShadowBrokers1](https://github.com/BrunoSobrino.png?size=60)](https://github.com/BrunoSobrino) 
+
+### 🌟 CREADORA 
+[![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
+
 > Copyright (c) 2025 **[NAGIBOTV2](https://whatsapp.com/channel/0029VajUPbECxoB0cYovo60W)**.
