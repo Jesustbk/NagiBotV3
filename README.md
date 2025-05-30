@@ -60,22 +60,28 @@ npm start
 
 <table>
   <tr>
-      <a href="https://github.com/thecarlos19">
-        <img src="https://avatars.githubusercontent.com/thecarlos19" width="100px;" alt=""/
->
-       <br /><sub><b>thecarlos19</b></sub>>
-      </a>
-    </td>
     <td align="center">
-      <a href="https://github.com/whiskeysockets">
-        <img src="https://avatars.githubusercontent.com/whiskeysockets" width="100px;" alt=""/>
-        <br /><sub><b>WhiskeySockets</b></sub>
+      <a href="https://github.com/tuusuario">
+        <img src="https://avatars.githubusercontent.com/tuusuario" width="100px;" alt=""/>
+        <br /><sub><b>TuUsuario</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/GataNina-Li">
         <img src="https://avatars.githubusercontent.com/GataNina-Li" width="100px;" alt=""/>
         <br /><sub><b>GataNina-Li</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/thecarlos19">
+        <img src="https://avatars.githubusercontent.com/thecarlos19" width="100px;" alt=""/>
+        <br /><sub><b>thecarlos19</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/whiskeysockets">
+        <img src="https://avatars.githubusercontent.com/whiskeysockets" width="100px;" alt=""/>
+        <br /><sub><b>WhiskeySockets</b></sub>
       </a>
     </td>
   </tr>
