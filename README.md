@@ -92,7 +92,7 @@ npm start
       </a>
     </td>
   </tr>
-</table> 
+</table>
 
 
 ### 🐬 CREADOR 
