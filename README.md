@@ -83,9 +83,9 @@ npm start
    </a>
     </td>
     <td align="center">
-      <a href="https://github.com/GataNina-Li">
-        <img src="https://avatars.githubusercontent.com/GataNina-Li" width="100px;" alt=""/>
-        <br /><sub><b>GataNina-Li</b></sub>
+      <a href="https://github.com/thecarlos19">
+        <img src="https://avatars.githubusercontent.com/thecarlos19" width="100px;" alt=""/>
+        <br /><sub><b>thecarlos19</b></sub>
       </a>
     </td>
   </tr>
