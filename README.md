@@ -83,6 +83,7 @@ npm start
 
 
 ### INSPIRADO EN GATANINA-LI 
+        </a>
       </a>
     </td>
     <td align="center">
