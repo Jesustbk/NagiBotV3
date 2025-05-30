@@ -82,7 +82,7 @@ npm start
 </table>
 
 
-### 🌟 AGRADECIMIENTOS
+### INSPIRACIÓN 
 [![TheShadowBrokers1](https://github.com/GataNina-Li.png?size=60)](https://github.com/GataNina-Li) 
 
 
