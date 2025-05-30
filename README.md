@@ -58,6 +58,14 @@ npm start
 
 ## 👥 Colaboradores
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/El-brayan502">
+        <img src="https://avatars.githubusercontent.com/El-brayan502" width="100px;" alt=""/>
+        <br /><sub><b>Fantom330</b></sub>
+      </a>
+    </td>
     <td align="center">
       <a href="https://github.com/whiskeysockets">
         <img src="https://avatars.githubusercontent.com/whiskeysockets" width="100px;" alt=""/>
