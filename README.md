@@ -83,7 +83,6 @@ npm start
 
 
 ### INSPIRADO EN GATANINA-LI 
-   <br /><sub><b>WhiskeySockets</b></sub>
       </a>
     </td>
     <td align="center">
