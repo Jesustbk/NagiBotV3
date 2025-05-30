@@ -83,18 +83,7 @@ npm start
 
 
 ### INSPIRADO EN GATANINA-LI 
-        </a>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/GataNina-Li">
-        <img src="https://avatars.githubusercontent.com/GataNina-Li" width="100px;" alt=""/>
-        <br /><sub><b>GataNina-Li</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
+ [![TheShadowBrokers1](https://github.com/GataNina-Li.png?size=60)](https://github.com/GataNina-Li)
 
 ### 🐬 CREADOR 
 [![GataNina-Li](https://github.com/El-brayan502.png?size=100)](https://github.com/El-brayan502) 
