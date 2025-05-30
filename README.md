@@ -81,4 +81,4 @@ npm start
   </tr>
 </table>
 
-> Copyright (c) 2025 **[CANAL](https://whatsapp.com/channel/0029VajUPbECxoB0cYovo60W)**.
+> Copyright (c) 2025 **[NAGIBOTV2](https://whatsapp.com/channel/0029VajUPbECxoB0cYovo60W)**.
