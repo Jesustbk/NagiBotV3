@@ -81,8 +81,10 @@ npm start
   </tr>
 </table>
 
+
 ### 🌟 AGRADECIMIENTOS
 [![TheShadowBrokers1](https://github.com/GataNina-Li.png?size=60)](https://github.com/GataNina-Li) 
+
 
 ### 🐬 CREADOR 
 [![GataNina-Li](https://github.com/El-brayan502.png?size=100)](https://github.com/El-brayan502) 
