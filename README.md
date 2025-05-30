@@ -63,7 +63,6 @@ npm start
       <a href="https://github.com/thecarlos19">
         <img src="https://avatars.githubusercontent.com/thecarlos19" width="100px;" alt=""/>
         <br /><sub><b>thecarlos19</b></sub>>
-        <br /><sub><b>Fantom330</b></sub>
       </a>
     </td>
     <td align="center">
