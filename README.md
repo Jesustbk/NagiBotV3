@@ -83,7 +83,17 @@ npm start
 
 
 ### INSPIRADO EN GATANINA-LI 
-[![TheShadowBrokers1](https://github.com/GataNina-Li.png?size=60)](https://github.com/GataNina-Li) 
+   <br /><sub><b>WhiskeySockets</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/GataNina-Li">
+        <img src="https://avatars.githubusercontent.com/GataNina-Li" width="100px;" alt=""/>
+        <br /><sub><b>GataNina-Li</b></sub>
+      </a>
+    </td>
+  </tr>
+</table> 
 
 
 ### 🐬 CREADOR 
