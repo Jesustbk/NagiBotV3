@@ -95,7 +95,16 @@ npm start
   </tr>
 </table>
 
-### 🐬 CREADOR 
-[![GataNina-Li](https://github.com/El-brayan502.png?size=100)](https://github.com/El-brayan502) 
+## 🐬 CREADOR 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/El-brayan502">
+        <img src="https://avatars.githubusercontent.com/El-brayan502" width="100px;" alt=""/>
+        <br /><sub><b>Fantom330</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 > Copyright (c) 2025 **[NAGIBOTV2](https://whatsapp.com/channel/0029VajUPbECxoB0cYovo60W)**.
