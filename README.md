@@ -55,3 +55,28 @@ yarn install && npm install
 npm start
 ```
 ---------
+
+## 👥 Colaboradores
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/tuusuario">
+        <img src="https://avatars.githubusercontent.com/tuusuario" width="100px;" alt=""/>
+        <br /><sub><b>TuUsuario</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/whiskeysockets">
+        <img src="https://avatars.githubusercontent.com/whiskeysockets" width="100px;" alt=""/>
+        <br /><sub><b>WhiskeySockets</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/GataNina-Li">
+        <img src="https://avatars.githubusercontent.com/GataNina-Li" width="100px;" alt=""/>
+        <br /><sub><b>GataNina-Li</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
