@@ -81,4 +81,4 @@ npm start
   </tr>
 </table>
 
-> Copyright (c) 2025 **[GataNina-Li](https://github.com/GataNina-Li/GataBot-MD/blob/master/LICENSE)**.
+> Copyright (c) 2025 **[CANAL](https://github.com/GataNina-Li/GataBot-MD/blob/master/LICENSE)**.
