@@ -61,9 +61,9 @@ npm start
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/GataNina-Li">
-        <img src="https://avatars.githubusercontent.com/GataNina-Li" width="100px;" alt=""/>
-        <br /><sub><b>GataNina-Li</b></sub>
+      <a href="https://github.com/El-brayan502">
+        <img src="https://avatars.githubusercontent.com/El-brayan502" width="100px;" alt=""/>
+        <br /><sub><b>El-brayan502</b></sub>
       </a>
     </td>
     <td align="center">
