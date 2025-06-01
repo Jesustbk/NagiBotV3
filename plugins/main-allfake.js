@@ -35,7 +35,7 @@ global.namechannel = 'ＮＡＧＩＢＯＴ－Ｖ²'
 global.namegrupo = 'ＮＡＧＩＢＯＴ－Ｖ²'
 global.namecomu = '𝙏𝙃𝙀 𝘽𝙍𝙊𝙇𝙔𝘽𝙊𝙏 𝘾𝘼𝙉𝘼𝙇'
 global.listo = '⚽️ ＡＱＵＩ ＴＩＥＮＥＳ ＭＥＮ'
-global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://qu.ax/LsudL.jpg')
+global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://files.catbox.moe/k4cdwk.jpg')
 
 //Ids channel
 global.idchannel = '120363312092804854@newsletter'
@@ -114,11 +114,11 @@ global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo
 }}, { quoted: m }
 
 global.icono = [ 
-'https://qu.ax/pXRHz.jpg',
+'https://files.catbox.moe/almkk6.jpg',
 ].getRandom()
 
 global.menum = [ 
-'https://qu.ax/VeQxk.jpg',
+'https://files.catbox.moe/k4cdwk.jpg',
 ].getRandom()
 
 global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: global.canalIdM, serverMessageId: 100, newsletterName: global.canalNombreM, }, externalAdReply: { showAdAttribution: true, title: packname, body: dev, mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: true }, }, }}
