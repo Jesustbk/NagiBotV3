@@ -584,16 +584,16 @@ let user2 = m.pushName || 'Anónimo'
 let verifyaleatorio = ['registrar', 'reg', 'verificar', 'verify', 'register'].getRandom()
 
 const msg = {
-rowner: '```¡¡ESTA FUNCIÓN SOLO PUEDE SER USADA POR MI CREADOR!!```', 
-owner: '```¡¡ESTA FUNCIÓN SOLO PUEDE SER USADA POR MI DESARROLLADOR!!```', 
-mods: '```¡¡ESTA FUNCIÓN SOLO PUEDE SER USADA POR MIS DESARROLLADORES!!```', 
-premium: '```¡¡ESTA FUNCIÓN SOLO ES PARA USUARIOS PREMIUM!!```', 
-group: '```¡¡ESTA FUNCION SOLO PUEDE SER EJECUTADA EN GRUPOS!!```', 
-private: '```¡¡ESTA FUNCIÓN SOLO PUEDE SER USADA EN CHAT PRIVADO!!```', 
-admin: '```¡¡ESTE COMANDO SOLO PUEDE SER USADO POR ADMINS!!```', 
-botAdmin: '```¡¡PARA USAR ESTA FUNCIÓN DEBO SER ADMIN DEL GRUPO!!```', 
-unreg: '*HOLA USUARIO PARA USAR EL BOT NECESITAS ESTAR REGISTRADO📥*\n_EJEMPLO #reg nombre.edad_\n*Y listo ✅️*',
-restrict: '```¡¡ESTA CARACTERÍSTICA ESTA DESACTIVADA!!```'
+rowner: '🚫 Esta función solo puede ser utilizada por el *Creador del bot*. Si no lo eres, no podrás usarla.',
+owner: '🚫 Esta función está restringida para el *Desarrollador principal del bot*. Acceso denegado.',
+mods: '🚫 Solo los *Desarrolladores autorizados* pueden ejecutar esta función.',
+premium: '💎 Esta función está disponible únicamente para *usuarios premium*. Usa #serpremium para más info.',
+group: '👥 Esta función solo se puede usar dentro de *grupos*. Intenta en uno.',
+private: '🔒 Esta función solo está disponible en *chats privados*. Escríbeme en privado para usarla.',
+admin: '👮 Esta función está reservada solo para *administradores del grupo*.',
+botAdmin: '🛑 Necesito ser *administrador del grupo* para poder ejecutar esta función correctamente.',
+unreg: '📛 Usuario no registrado.\n\n📥 Para usar *NagiBotV2* necesitas registrarte.\n\n✅ Usa el siguiente comando:\n#reg TuNombre.Edad\n\n📌 Ejemplo:\n#reg Brayan.18\n\n¡Y listo! Ya podrás usar todas las funciones.',
+restrict: '⚠️ Esta característica está *desactivada por el propietario del bot*. No se puede usar actualmente.'
 }[type];
 if (msg) return m.reply(msg).then(_ => m.react('✖️'))}
 
