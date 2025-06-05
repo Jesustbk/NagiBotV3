@@ -1,6 +1,6 @@
 ### ¡Hola! 👋
 
-![Nagi Seishiro](https://files.catbox.moe/zbwucf.mp4)
+![Nagi Seishiro](https://h.uguu.se/KJJQQsEZ.gif)
 
 Soy un entusiasta de *Blue Lock* y fan de Nagi Seishiro.
 
