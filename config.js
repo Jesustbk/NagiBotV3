@@ -18,7 +18,7 @@ global.confirmCode = ''
 
 global.owner = [
 ['50231458537', '۪〬.࠭⤿ 👑 𝙁𝘼𝙉𝙏𝙊𝙈 - 𝙊𝙒𝙉𝙀𝙍', true],
-['525544876071', '۪〬.࠭⤿ 👑 𝙏𝙃𝙀 𝗖𝗔𝗥𝗟𝗢𝗦', true],
+['15614809253', '۪〬.࠭⤿ 👑 𝙏𝙃𝙀 𝘿𝘼𝙑𝙄𝘿 𝙎𝙊𝙋𝙊𝙍𝙏', true],
 ['573162402768', '۪〬.࠭⤿ 🐶 𝙉𝙊 𝙃𝘼𝘾𝙀 𝙉𝘼𝘿𝘼', true],
 ['526243149161', '۪〬.࠭⤿ 👑 𝙍𝙀𝙄𝙉𝘼 𝘽𝘽', true],
 ['5214774444444', '۪〬.࠭⤿ 𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true]
@@ -26,9 +26,9 @@ global.owner = [
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.mods = ['51946509137', '573162402768', '50231458537', '525544876071']
+global.mods = ['51946509137', '573162402768', '50231458537', '15614809253']
 global.suittag = ['50231458537'] 
-global.prems = ['51946509137', '573162402768', '5031458537', '525544876071']
+global.prems = ['51946509137', '573162402768', '5031458537', '15614809253']
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -41,19 +41,19 @@ global.nameqr = 'Nagiqr'
 global.namebot = 'NagiBot'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
-global.NagiJadibts = true.
+global.NagiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '⚽️◌*̥₊ NᴀɢɪBᴏᴛ ◌❐'
-global.botname = '𝘕𝘢𝘨𝘪𝘉𝘰𝘵-𝘔𝘋'
-global.wm = 'NᴀɢɪBᴏᴛ X Bʀᴀʏᴀɴ ʏ Cʟᴀʀɪᴛᴀ'
-global.author = '୧ㅤ 𝘉𝘳𝘢𝘺𝘢𝘯 𝘹 𝘤𝘭𝘢𝘳𝘪𝘵áㅤ🎋'
-global.dev = 'NᴀɢɪBᴏᴛ X Bʀᴀʏᴀɴ ʏ Cʟᴀʀɪᴛᴀ'
-global.textbot = 'NᴀɢɪBᴏᴛV² :Fᴀɴᴛᴏᴍ³³∅'
+global.packname = 'ＮａｇｉＢｏｔ－ｖ²'
+global.botname = '𝙉𝙖𝙜𝙞𝘽𝙤𝙩-𝙫²'
+global.wm = '𝗡𝗮𝗴𝗶𝗕𝗼𝘁-𝗠𝗗'
+global.author = 'NᴀɢɪBᴏᴛ X Bʀᴀʏᴀɴ ʏ Cʟᴀʀɪᴛᴀ'
+global.dev = '୧ㅤ 𝘉𝘳𝘢𝘺𝘢𝘯 𝘹 𝘤𝘭𝘢𝘳𝘪𝘵áㅤ🎋'
+global.textbot = 'NᴀɢɪBᴏᴛ X Bʀᴀʏᴀɴ ʏ Cʟᴀʀɪᴛᴀ'
 global.etiqueta = '@ᖴᗩᑎTOᗰ ᙭ᗪ'
 global.titulowm = 'Whatsapp Multi Device';
-global.titulowm2 = '𝘕𝘢𝘨𝘪𝘉𝘰𝘵 𝘹 𝘉𝘳𝘢𝘺𝘢𝘯 𝘠 𝘊𝘭𝘢𝘳𝘪𝘵𝘢'
+global.titulowm2 = '𝘚𝘶𝘱𝘦𝘳 𝘉𝘰𝘵 𝘋𝘦 𝘞𝘩𝘢𝘵𝘴𝘢𝘱𝘱'
 global.igfg = '@Fantom330'
 global.gt = 'ᶜʳᵉᵃᵗᵉᵈ ᴮʸ ᴮʳᵃʸᵃⁿ³³⁰';
 
