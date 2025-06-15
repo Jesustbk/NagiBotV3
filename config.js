@@ -1,3 +1,5 @@
+
+
 import { watchFile, unwatchFile } from 'fs' 
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
@@ -48,8 +50,8 @@ global.NagiJadibts = true.
 global.packname = 'ñ;'
 global.botname = '𝘕𝘢𝘨𝘪𝘉𝘰𝘵-𝘔𝘋'
 global.wm = 'NᴀɢɪBᴏᴛ X Bʀᴀʏᴀɴ ʏ Cʟᴀʀɪᴛᴀ'
-global.author = '❁ཻུ۪۪ ⎧ ୧ㅤ 𝘉𝘳𝘢𝘺𝘢𝘯 𝘹 𝘤𝘭𝘢𝘳𝘪𝘵áㅤ🎋⋅ ..⃗.'
-global.dev = '❁ཻུ۪۪ ⎧ ୧ㅤ 𝘉𝘳𝘢𝘺𝘢𝘯 𝘹 𝘤𝘭𝘢𝘳𝘪𝘵áㅤ🎋⋅ ..⃗.'
+global.author = 'kk'
+global.dev = 'j'
 global.textbot = 'NᴀɢɪBᴏᴛV² :Fᴀɴᴛᴏᴍ³³∅'
 global.etiqueta = '@ᖴᗩᑎTOᗰ ᙭ᗪ'
 global.titulowm = 'Whatsapp Multi Device';
