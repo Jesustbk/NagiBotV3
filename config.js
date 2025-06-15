@@ -47,7 +47,7 @@ global.NagiJadibts = true.
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = 'ñ;'
+global.packname = '⚽️◌*̥₊ NᴀɢɪBᴏᴛ ◌❐'
 global.botname = '𝘕𝘢𝘨𝘪𝘉𝘰𝘵-𝘔𝘋'
 global.wm = 'NᴀɢɪBᴏᴛ X Bʀᴀʏᴀɴ ʏ Cʟᴀʀɪᴛᴀ'
 global.author = 'kk'
