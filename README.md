@@ -1,21 +1,30 @@
-# 🤖 NagiBotV2
+<p align="center">
+  <img src="https://media.tenor.com/rO3dbXc_PxYAAAAC/nagi-nagi-seishiro.gif" width="300" alt="Nagi Seishiro">
+</p>
 
-NagiBotV2 es un bot de WhatsApp multi-dispositivo usando la librería Baileys. Cuenta con funciones de entretenimiento, administración de grupos, inteligencia artificial, descargas, juegos, y mucho más.
+<h1 align="center">🤖 NagiBotV2</h1>
+<p align="center">Un poderoso bot de WhatsApp Multi-Dispositivo con comandos, IA y mucho más.</p>
 
-## 🚀 Características
+---
 
-- ✅ Compatible con WhatsApp MD
-- 🎮 Comandos de juegos y diversión
-- 🎵 Descarga de música/videos (YT, TikTok, etc.)
-- 🧠 IA integrada (ChatGPT, etc.)
-- 🛠️ Herramientas para grupos
-- 👤 Sistema de usuarios y registro
+## 🚀 Funciones principales
+
+- ✅ Compatible con WhatsApp Multi-Device
+- 🧠 Chat IA (OpenAI)
+- 🎮 Juegos interactivos
+- 🎵 Descarga de YouTube, TikTok, Spotify
+- 🛠️ Administración de grupos
+- 📌 Sistema de usuarios, niveles y economía
+
+---
 
 ## 📦 Requisitos
 
 - Node.js v18 o superior
 - Git
-- Una cuenta de WhatsApp
+- Número de WhatsApp activo
+
+---
 
 ## 🛠️ Instalación
 
