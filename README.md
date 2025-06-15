@@ -1,38 +1,97 @@
-# 🌌 NagiBotV2 - Bot de WhatsApp Multi-dispositivo
+### ¡Hola! 👋
 
-![Logo](https://i.imgur.com/ZaYSSVX.jpg) <!-- Puedes cambiar esta imagen por la que prefieras -->
+![Nagi Seishiro](https://h.uguu.se/KJJQQsEZ.gif)
 
-> Un bot de WhatsApp MD rápido, potente y personalizable, basado en `@whiskeysockets/baileys`. Perfecto para grupos, comandos de diversión, multimedia, administración, juegos y más.
+Soy un entusiasta de *Blue Lock* y fan de Nagi Seishiro.
+
+# 🌀 NagiBotV2 — Bot de WhatsApp MultiDispositivo
+
+**NagiBotV2** es un bot de WhatsApp creado con [`@whiskeysockets/baileys`](https://github.com/WhiskeySockets/Baileys), basado en Node.js, diseñado para ser rápido, funcional y personalizable. 🧠
 
 ---
 
 ## 🚀 Características
 
-- ✅ Soporte Multi-Dispositivo
-- 🎮 Comandos de juegos interactivos
-- 🖼 Stickers, audio, imágenes y videos
-- 🤖 IA integrada con comandos `.ai`, `.bard`, `.gpt`
-- ⚙️ Comandos de administración de grupo
-- 📥 Descargas de YouTube, TikTok, IG, etc.
-- 🐶 Sistema de mascota virtual (`.pet`)
-- 🔥 Personalización con botones, menús y estilo visual
-- 🎧 Sistema de música (`.playmusic`)
+- ✅ Soporte para WhatsApp Multi-Dispositivo (MD)
+- 🤖 Comandos personalizables
+- 🔄 Reconexión automática
+- 📦 Fácil de alojar en servidores (Render, Railway, Replit, etc.)
+- 🎮 Base lista para añadir sistemas como mascotas virtuales, admins, música, etc.
 
 ---
 
-## 🧠 Requisitos
+## ⚙️ Requisitos
 
-- Node.js 18+
-- Termux / VPS / Replit / Ubuntu / Windows
-- Código de emparejamiento de WhatsApp o QR
-- Git instalado
+- Node.js v18 o superior
+- Git
+- Cuenta de WhatsApp activa
+- Token de servidor si usarás hosting externo (opcional)
 
 ---
 
 ## 📦 Instalación
+> copie y peguen en termux uno por uno 
+```bash
+termux-setup-storage
+```
 
 ```bash
-git clone https://github.com/El-brayan502/NagiBotV2
+apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
+```
+
+```bash
+git clone https://github.com/El-brayan502/NagiBotV2.git
+```
+
+```bash
 cd NagiBotV2
-npm install
+```
+
+```bash
+yarn install && npm install
+```
+
+```bash
 npm start
+```
+---------
+
+## 👥 Colaboradores
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/El-brayan502">
+        <img src="https://avatars.githubusercontent.com/El-brayan502" width="100px;" alt=""/>
+        <br /><sub><b>El-brayan502</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/thecarlos19">
+        <img src="https://avatars.githubusercontent.com/thecarlos19" width="100px;" alt=""/>
+        <br /><sub><b>thecarlos19</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/whiskeysockets">
+        <img src="https://avatars.githubusercontent.com/whiskeysockets" width="100px;" alt=""/>
+        <br /><sub><b>WhiskeySockets</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+   
+
+## 🐬 CREADOR 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/El-brayan502">
+        <img src="https://avatars.githubusercontent.com/El-brayan502" width="100px;" alt=""/>
+        <br /><sub><b>Fantom330</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+> Copyright (c) 2025 **[NAGIBOTV2](https://whatsapp.com/channel/0029VajUPbECxoB0cYovo60W)**.
