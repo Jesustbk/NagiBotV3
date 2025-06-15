@@ -10,17 +10,6 @@
   Desarrollado por <a href="https://github.com/El-brayan502">@El-brayan502</a> con soporte de <a href="https://github.com/thecarlos19">@thecarlos19</a>
 </p>
 
-
-<p align="center">
-  <a href="https://github.com/El-brayan502">
-    <img src="https://img.shields.io/badge/🧠%20El-brayan502-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/thecarlos19">
-    <img src="https://img.shields.io/badge/🤝%20thecarlos19-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-
 ---
 
 <p align="center">
