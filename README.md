@@ -37,6 +37,15 @@
 
 ```bash
 git clone https://github.com/El-brayan502/NagiBotV2
+
+```
+```bash
 cd NagiBotV2
+```
+```bash
 npm install
+```
+
+```bash
 npm start
+```
