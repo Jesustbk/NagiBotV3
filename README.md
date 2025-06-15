@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/rO3dbXc_PxYAAAAC/nagi-nagi-seishiro.gif" width="300" alt="Nagi Seishiro">
+  <img src="https://files.catbox.moe/r26utu.gif" width="300" alt="Nagi Seishiro">
 </p>
 
 <h1 align="center">🤖 NagiBotV2</h1>
