@@ -33,5 +33,6 @@ git clone https://github.com/El-brayan502/NagiBotV2
 cd NagiBotV2
 npm install
 npm start
+
 ___
 
