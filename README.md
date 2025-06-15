@@ -34,7 +34,7 @@ cd NagiBotV2
 npm install
 npm start
 
-__
+___
 
 ## `COLABORADORES DEL BOT` 
 <a href="https://github.com/SinNombre999"><img src="https://github.com/SinNombre999.png" width="200" height="200" alt="SinNombre999"/></a>
