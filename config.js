@@ -41,19 +41,19 @@ global.nameqr = 'Nagiqr'
 global.namebot = 'NagiBot'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
-global.NagiJadibts = true.
+global.NagiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = 'handler.exe = {\n  message: {\n    creator: "Brayan x Clarita",\n    botname: "NagiBotV2",\n    fecha: "${fecha}"\n         }\n     };'
-global.botname = '𝘕𝘢𝘨𝘪𝘉𝘰𝘵-𝘔𝘋'
-global.wm = 'NᴀɢɪBᴏᴛ X Bʀᴀʏᴀɴ ʏ Cʟᴀʀɪᴛᴀ'
+global.packname = '\n🐱◌*̥₊ NᴀɢɪBᴏᴛ ◌❐🎋༉\n❁ཻུ۪۪ ⎧ ୧  𝘉𝘳𝘢𝘺𝘢𝘯 𝘺 𝘊𝘭𝘢𝘳𝘪𝘵𝘢ㅤ🎋⋅ ..⃗.\n'
+global.botname = 'NᴀɢɪBᴏᴛ-Mᴅ'
+global.wm = 'NᴀɢʏBᴏᴛ-Mᴅ Bʏ Bʀᴀʏᴀɴ'
 global.author = '❁ཻུ۪۪ ⎧ ୧ㅤ 𝘉𝘳𝘢𝘺𝘢𝘯 𝘹 𝘤𝘭𝘢𝘳𝘪𝘵áㅤ🎋⋅ ..⃗.'
-global.dev = '❁ཻུ۪۪ ⎧ ୧ㅤ 𝘉𝘳𝘢𝘺𝘢𝘯 𝘹 𝘤𝘭𝘢𝘳𝘪𝘵áㅤ🎋⋅ ..⃗.'
+global.dev = 'NᴀɢɪBᴏᴛ X Bʀᴀʏᴀɴ ʏ Cʟᴀʀɪᴛᴀ'
 global.textbot = 'NᴀɢɪBᴏᴛV² :Fᴀɴᴛᴏᴍ³³∅'
 global.etiqueta = '@ᖴᗩᑎTOᗰ ᙭ᗪ'
 global.titulowm = 'Whatsapp Multi Device';
-global.titulowm2 = '𝘕𝘢𝘨𝘪𝘉𝘰𝘵 𝘹 𝘉𝘳𝘢𝘺𝘢𝘯 𝘠 𝘊𝘭𝘢𝘳𝘪𝘵𝘢'
+global.titulowm2 = '𝘚𝘶𝘱𝘦𝘳 𝘉𝘰𝘵 𝘋𝘦 𝘞𝘩𝘢𝘵𝘴𝘢𝘱𝘱'
 global.igfg = '@Fantom330'
 global.gt = 'ᶜʳᵉᵃᵗᵉᵈ ᴮʸ ᴮʳᵃʸᵃⁿ³³⁰';
 
