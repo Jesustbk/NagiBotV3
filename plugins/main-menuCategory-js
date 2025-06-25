@@ -1,0 +1,34 @@
+let handler = async (m, { conn, usedPrefix }) => {
+  let name = await conn.getName(m.sender)
+  let number = m.sender.split('@')[0]
+  let menuImage = 'https://d.uguu.se/rGnurWeP.gif'
+  let date = new Date().toLocaleString('es-ES', { timeZone: 'America/Guatemala' })
+
+  let menuText = `
+┏━━『 *🌐 INFO - USER* 』
+┃ 👤 *Usuario:* ${name}
+┃ 🔢 *Número:* wa.me/${number}
+┃ ⏰ *Hora actual:* ${date}
+┃ 📶 *Estado:* 🟢 ONLINE
+┗━━━━━━━━━━━━━━⬣
+`.trim()
+
+  await conn.sendMessage(m.chat, {
+    image: { url: menuImage },
+    caption: menuText,
+    footer: '👑 NagiBotV3 | By @El-brayan502',
+    buttons: [
+      { buttonId: `${usedPrefix}grupos`, buttonText: { displayText: '🎋 Grupos' }, type: 1 },
+      { buttonId: `${usedPrefix}allmenu`, buttonText: { displayText: '🧩 Menú Completo' }, type: 1 },
+      { buttonId: `${usedPrefix}reg NAGI.18`, buttonText: { displayText: '📲 Auto verificación' }, type: 1 }
+    ],
+    templateButtons: [
+      { index: 0, urlButton: { displayText: '📢 Canal WhatsApp', url: 'https://whatsapp.com/channel/link-del-canal' } },
+      { index: 1, urlButton: { displayText: '🌐 GitHub', url: 'https://github.com/El-brayan502' } }
+    ],
+    mentions: [m.sender]
+  }, { quoted: m })
+}
+
+handler.command = ['menu', 'menú']
+export default handler
