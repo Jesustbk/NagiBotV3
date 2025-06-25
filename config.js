@@ -45,7 +45,7 @@ global.NagiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = 'ＮａｇｉＢｏｔ－ｖ²'
+global.packname = '🎄 NᴀɢɪBᴏᴛ V³ 🎋'
 global.botname = '𝙉𝙖𝙜𝙞𝘽𝙤𝙩-𝙫²'
 global.wm = '𝗡𝗮𝗴𝗶𝗕𝗼𝘁-𝗠𝗗'
 global.author = 'NᴀɢɪBᴏᴛ X Bʀᴀʏᴀɴ ʏ Cʟᴀʀɪᴛᴀ'
