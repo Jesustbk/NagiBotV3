@@ -1,7 +1,7 @@
 let handler = async (m, { conn, usedPrefix }) => {
   let name = await conn.getName(m.sender)
   let number = m.sender.split('@')[0]
-  let menuImage = 'https://d.uguu.se/rGnurWeP.gif'
+  let menuImage = 'https://qu.ax/STCTA.jpg'
   let date = new Date().toLocaleString('es-ES', { timeZone: 'America/Guatemala' })
 
   let menuText = `
