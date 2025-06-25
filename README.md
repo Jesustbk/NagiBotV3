@@ -40,7 +40,7 @@ termux-setup-storage
 ```
 
 ```bash
-git clone https://github.com/El-brayan502/NagiBotV2
+git clone https://github.com/El-brayan502/NagiBotV3
 
 ```
 ```bash
