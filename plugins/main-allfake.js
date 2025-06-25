@@ -35,7 +35,7 @@ global.namechannel = 'ＮＡＧＩＢＯＴ－Ｖ²'
 global.namegrupo = 'ＮＡＧＩＢＯＴ－Ｖ²'
 global.namecomu = '𝙏𝙃𝙀 𝘽𝙍𝙊𝙇𝙔𝘽𝙊𝙏 𝘾𝘼𝙉𝘼𝙇'
 global.listo = '⚽️ ＡＱＵＩ ＴＩＥＮＥＳ ＭＥＮ'
-global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://files.catbox.moe/k4cdwk.jpg')
+global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://files.catbox.moe/y817pt.jpg')
 
 //Ids channel
 global.idchannel = '120363312092804854@newsletter'
