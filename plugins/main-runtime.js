@@ -1,37 +1,33 @@
-let handler = async (m, { conn, usedPrefix }) => {
-  let name = await conn.getName(m.sender)
-  let number = m.sender.split('@')[0]
-  let user = global.db.data.users[m.sender]
-  let creatorName = 'Bienvenido al bot disfrutalo✨️🎄'
+let handler = async (m, { usedPrefix, command }) => {
+let uptime = await process.uptime()
+let runtime = `${packname}
 
-  let info = `
-╭━━〔 𝗜𝗡𝗙𝗢 𝗗𝗘𝗟 𝗨𝗦𝗨𝗔𝗥𝗜𝗢 〕━━⬣
-┃ 👤 *Nombre:* ${name}
-┃ 🪪 *Número:* wa.me/${number}
-┃ 🧬 *Experiencia:* ${user.exp}
-┃ 💎 *Diamantes:* ${user.diamond || 0}
-┃ 🎟 *Tokens:* ${user.joincount || 0}
-┃ 🔋 *Nivel:* ${user.level}
-┃ 🧪 *Rango:* ${user.role}
-╰━━━━━━━━━━━━━━━━⬣
-
-📱 *Bienvenido al Panel del Bot*
-Selecciona una opción con los botones de abajo:`.trim()
-
-  const imagen = 'https://qu.ax/STCTA.jpg' // Puedes cambiarla
-
-  await conn.sendMessage(m.chat, {
-    image: { url: imagen },
-    caption: info,
-    footer: 'Bot de Brayan 😼🍁',
-    buttons: [
-      { buttonId: `${usedPrefix}help`, buttonText: { displayText: '📜 Menú Principal' }, type: 1 },
-      { buttonId: `${usedPrefix}grupos`, buttonText: { displayText: '🎋 Grupos' }, type: 1 },
-      { buttonId: `${usedPrefix}reg soyGay.444`, buttonText: { displayText: '🌐 auto verificar' }, type: 1 }
-    ],
-    headerType: 4
-  }, { quoted: m })
+✰ Tiempo activo: ${rTime(uptime)}`
+conn.reply(m.chat, runtime, m, rcanal)
 }
+handler.help = ['runtime']
+handler.tags = ['main']
+handler.command = ['runtime', 'uptime']
 
-handler.command = ['menu', 'menú', 'abrirmenu']
 export default handler
+
+const dd = new Date(new Date + 3600000);
+const time = dd.toLocaleString('en-US', { 
+      hour: 'numeric',
+      minute: 'numeric',
+      second: 'numeric',
+      hour12: true 
+    });
+
+function rTime(seconds) {
+  seconds = Number(seconds);
+  var d = Math.floor(seconds / (3600 * 24));
+  var h = Math.floor((seconds % (3600 * 24)) / 3600);
+  var m = Math.floor((seconds % 3600) / 60);
+  var s = Math.floor(seconds % 60);
+  var dDisplay = d > 0 ? d + (d == 1 ? " dia, " : " Dias, ") : "";
+  var hDisplay = h > 0 ? h + (h == 1 ? " hora, " : " Horas, ") : "";
+  var mDisplay = m > 0 ? m + (m == 1 ? " minuto, " : " Minutos, ") : "";
+  var sDisplay = s > 0 ? s + (s == 1 ? " segundo" : " Segundos") : "";
+  return dDisplay + hDisplay + mDisplay + sDisplay;
+};
