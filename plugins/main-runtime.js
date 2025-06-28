@@ -27,7 +27,7 @@ Selecciona una opción con los botones de abajo:`.trim()
     buttons: [
       { buttonId: `${usedPrefix}help`, buttonText: { displayText: '📜 Menú Principal' }, type: 1 },
       { buttonId: `${usedPrefix}grupos`, buttonText: { displayText: '🎋 Grupos' }, type: 1 },
-      { buttonId: `${usedPrefix}.reg SoyNiña.777`, buttonText: { displayText: '🌐 Auto verificación' }, type: 1 }
+      { buttonId: `${usedPrefix}reg soyGay.444`, buttonText: { displayText: '🌐 auto verificar' }, type: 1 }
     ],
     headerType: 4
   }, { quoted: m })
