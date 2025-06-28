@@ -1,38 +1,37 @@
-import fetch from 'node-fetch';
+let handler = async (m, { conn, usedPrefix }) => {
+  let name = await conn.getName(m.sender)
+  let number = m.sender.split('@')[0]
+  let user = global.db.data.users[m.sender]
+  let creatorName = 'Bienvenido al bot disfrutalo✨️🎄'
 
-let handler = async (m, { conn, text }) => {
-    if (!text) return conn.reply(m.chat, '🚩 Ingresa el término de búsqueda.', m, rcanal);
+  let info = `
+╭━━〔 𝗜𝗡𝗙𝗢 𝗗𝗘𝗟 𝗨𝗦𝗨𝗔𝗥𝗜𝗢 〕━━⬣
+┃ 👤 *Nombre:* ${name}
+┃ 🪪 *Número:* wa.me/${number}
+┃ 🧬 *Experiencia:* ${user.exp}
+┃ 💎 *Diamantes:* ${user.diamond || 0}
+┃ 🎟 *Tokens:* ${user.joincount || 0}
+┃ 🔋 *Nivel:* ${user.level}
+┃ 🧪 *Rango:* ${user.role}
+╰━━━━━━━━━━━━━━━━⬣
 
-    await m.react('🕓');
-    try {
-        const response = await fetch(`https://api.rynn-archive.biz.id/search/android1?q=${encodeURIComponent(text)}`);
-        const data = await response.json();
+📱 *Bienvenido al Panel del Bot*
+Selecciona una opción con los botones de abajo:`.trim()
 
-        if (!data.status || !data.result || data.result.length === 0) {
-            throw new Error('No se encontraron resultados para tu búsqueda.');
-        }
+  const imagen = 'https://qu.ax/STCTA.jpg' // Puedes cambiarla
 
-        let txt = `*乂  S E A R C H  -  A N D R O I D 1*\n\n`;
-        for (const app of data.result) {
-            txt += `    ✩  *Nombre* : ${app.name}\n`;
-            txt += `    ✩  *Desarrollador* : ${app.developer}\n`;
-            txt += `    ✩  *Calificación* : ${app.rating}\n`;
-            txt += `    ✩  *Enlace* : ${app.link}\n`;
-            txt += `\n    ✩  *Imagen* : ${app.imageUrl}\n\n`;
-        }
+  await conn.sendMessage(m.chat, {
+    image: { url: imagen },
+    caption: info,
+    footer: 'Bot de Brayan 😼🍁',
+    buttons: [
+      { buttonId: `${usedPrefix}help`, buttonText: { displayText: '📜 Menú Principal' }, type: 1 },
+      { buttonId: `${usedPrefix}grupos`, buttonText: { displayText: '🎋 Grupos' }, type: 1 },
+      { buttonId: `${usedPrefix}reg soyGay.444`, buttonText: { displayText: '🌐 auto verificar' }, type: 1 }
+    ],
+    headerType: 4
+  }, { quoted: m })
+}
 
-        await conn.reply(m.chat, txt, m, rcanal);
-        await m.react('✅');
-    } catch (error) {
-        console.error(error);
-        await m.react('✖️');
-        await conn.reply(m.chat, '🚩 Ocurrió un error: ' + error.message, m);
-    }
-};
-
-handler.help = ['androidsearch <término>'];
-handler.tags = ['search'];
-handler.command = ['androidsearch'];
-handler.register = true;
-
-export default handler;
+handler.command = ['menu', 'menú', 'abrirmenu']
+export default handler
