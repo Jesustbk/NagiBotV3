@@ -61,7 +61,7 @@ npm start
 <div align="center">
   <h1 align="center">EDITOR Y PROPIETARIO DEL BOT</h1>
 
-<a href="https://github.com/ALBERTO9883"><img src="https://github.com/ALBERTO9883.png" width="300" height="300" alt="ALBERTO9883"/></a>
+<a href="https://github.com/El-brayan502"><img src="https://github.com/El-brayan502.png" width="300" height="300" alt="ALBERTO9883"/></a>
 
 `NyanCatBot-MD _ By Alberto Acosta`
   ### `Alberto`
