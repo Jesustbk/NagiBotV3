@@ -64,4 +64,4 @@ npm start
 <a href="https://github.com/El-brayan502"><img src="https://github.com/El-brayan502.png" width="300" height="300" alt="El-brayan502"/></a>
 
 `NagiBotV3_ By Brayan X Clarita `
-  ### `Alberto`
+  ### `Brayan Mosco`
