@@ -56,12 +56,12 @@ npm start
 
 
 ## `COLABORADORES DEL BOT` 
-<a href="https://github.com/SinNombre999"><img src="https://github.com/SinNombre999.png" width="200" height="200" alt="SinNombre999"/></a>
+<a href="https://github.com/thecarlos19"><img src="https://github.com/thecarlos19.png" width="200" height="200" alt="thecarlos19"/></a>
 
 <div align="center">
   <h1 align="center">EDITOR Y PROPIETARIO DEL BOT</h1>
 
-<a href="https://github.com/El-brayan502"><img src="https://github.com/El-brayan502.png" width="300" height="300" alt="ALBERTO9883"/></a>
+<a href="https://github.com/El-brayan502"><img src="https://github.com/El-brayan502.png" width="300" height="300" alt="El-brayan502"/></a>
 
 `NyanCatBot-MD _ By Alberto Acosta`
   ### `Alberto`
