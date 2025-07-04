@@ -15,7 +15,7 @@ const replyMessage = message.length === 0 ? "" : message
 const totalUsers = uniqueUsers.size;
 const responseMessage = `${` –  *𝙎𝙐𝘽𝙊𝙏 𝘿𝙀 𝙉𝘼𝙂𝙄𝘽𝙊𝙏𝙑2  ⚽️*\n\n${replyMessage.trim()}`.trim()}`
 
-let img = await (await fetch(`https://files.catbox.moe/q7q7k4.jpg`)).buffer()
+let img = await (await fetch(`https://qu.ax/zlere.jpg`)).buffer()
 
 await _envio.sendFile(m.chat, img, 'thumbnail.jpg', responseMessage, m, false, { mentions: _envio.parseMention(responseMessage) })
 }
