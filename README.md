@@ -56,7 +56,7 @@ npm start
 
 
 ## `COLABORADORES DEL BOT` 
-<a href="https://github.com/thecarlos19"><img src="https://github.com/thecarlos19.png" width="200" height="200" alt="thecarlos19"/></a>
+<a href="https://qu.ax/pYGaM.jpg"><img src="https://github.com/thecarlos19.png" width="200" height="200" alt="thecarlos19"/></a>
 
 <div align="center">
   <h1 align="center">EDITOR Y PROPIETARIO DEL BOT</h1>
