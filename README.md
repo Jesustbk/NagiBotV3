@@ -3,7 +3,7 @@
   <img src="https://qu.ax/pYGaM.jpg" alt="NagiBot Banner" width="100%"/>
 </p>
 
-<h1 align="center">⚡ NagiBotV2 - WhatsApp Multi-Device Bot</h1>
+<h1 align="center">⚡SAYAN-BOT - WhatsApp Multi-Device Bot</h1>
 
 <p align="center">
   <b>El bot más versátil para WhatsApp, con comandos avanzados, administración de grupos, sistema de niveles, juegos, IA y más.</b><br>
