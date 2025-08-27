@@ -3,10 +3,10 @@
   <img src="https://qu.ax/pYGaM.jpg" alt="NagiBot Banner" width="100%"/>
 </p>
 
-<h1 align="center">⚡SAYAN-BOT -El Mejor Bot de WhatsApp </h1>
+<h1 align="center">Satoru-Bot -El Mejor Bot de WhatsApp </h1>
 
 <p align="center">
-  <b>El bot más versátil para WhatsAppp con comandos avanzadose.</b><br>
+  <b>El bot más versátil para WhatsAppp con comandos avanzados.</b><br>
   Desarrollado por <a href="https://github.com/El-brayan502">@El-brayan502</a> con soporte de <a href="https://github.com/thecarlos19">@thecarlos19</a>
 </p>
 
