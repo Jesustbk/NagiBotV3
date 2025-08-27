@@ -17,18 +17,18 @@ global.confirmCode = ''
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-['50231458537', ' 👑 𝙊𝙒𝙉𝙀𝙍', true],
-['522202410659', '👑 Owner 2', true],
-['573001533523', ' ФАНТОМ : v 🇦🇱', true],
-['526243149161', ' 👑 La bebe', true],
-['573133374132', ' 🌸 Yo soy yo', true]
+['584147200139', ' 👑 𝙊𝙒𝙉𝙀𝙍', true],
+['584147200139', '👑 Owner 2', true],
+['', ' ФАНТОМ : v 🇦🇱', true],
+['', ' 👑 La bebe', true],
+['', ' 🌸 Yo soy yo', true]
 ];
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.mods = ['573001533523', '50231458537', '573133374132', '522202410659']
-global.suittag = ['50231458537'] 
-global.prems = ['573001533523', '50231458537', '573133374132', '522202410659']
+global.mods = ['584147200139', '584147200139', '584147200139', '584147200139']
+global.suittag = ['584147200139'] 
+global.prems = ['584147200139', '584147200139', '584147200139', '584147200139']
 
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -38,25 +38,25 @@ global.baileys = 'V 6.7.9'
 global.languaje = 'Español'
 global.vs = '2.2.0'
 global.vsJB = '5.0'
-global.nameqr = 'Nagiqr'
-global.namebot = 'NagiBot'
+global.nameqr = 'Saturoqr'
+global.namebot = 'Saturo-Bot'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
 global.NagiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '🎄 NᴀɢɪBᴏᴛ V³ 🎋'
-global.botname = '𝙉𝙖𝙜𝙞𝘽𝙤𝙩-𝙫²'
-global.wm = '𝗡𝗮𝗴𝗶𝗕𝗼𝘁-𝗠𝗗'
-global.author = 'NᴀɢɪBᴏᴛ X Bʀᴀʏᴀɴ ʏ Cʟᴀʀɪᴛᴀ'
-global.dev = '୧ㅤ 𝘉𝘳𝘢𝘺𝘢𝘯 𝘹 𝘤𝘭𝘢𝘳𝘪𝘵áㅤ🎋'
-global.textbot = 'NᴀɢɪBᴏᴛ X Bʀᴀʏᴀɴ ʏ Cʟᴀʀɪᴛᴀ'
-global.etiqueta = '@ᖴᗩᑎTOᗰ ᙭ᗪ'
-global.titulowm = 'Whatsapp Multi Device';
+global.packname = '📚 𝐒𝐀𝐓𝐎𝐑𝐔-𝐁𝐎𝐓 V³ 🥷'
+global.botname = '𝐒𝐀𝐓𝐎𝐑𝐔-𝐁𝐎𝐓'
+global.wm = '𝐒𝐀𝐓𝐎𝐑𝐔-𝐁𝐎𝐓 𝐌𝐃'
+global.author = '𝐉𝐞𝐬𝐮𝐬𝐓𝐊'
+global.dev = '୧ㅤ 𝐉𝐞𝐬𝐮𝐬𝐓𝐊ㅤ🎋'
+global.textbot = '𝐉𝐞𝐬𝐮𝐬𝐓𝐊'
+global.etiqueta = '@𝐒𝐀𝐓𝐎𝐑𝐔'
+global.titulowm = 'Satoru, el rey de los hechizeros';
 global.titulowm2 = '𝘚𝘶𝘱𝘦𝘳 𝘉𝘰𝘵 𝘋𝘦 𝘞𝘩𝘢𝘵𝘴𝘢𝘱𝘱'
-global.igfg = '@Fantom330'
-global.gt = 'ᶜʳᵉᵃᵗᵉᵈ ᴮʸ ᴮʳᵃʸᵃⁿ³³⁰';
+global.igfg = '@kaido'
+global.gt = '𝐜𝐫𝐞𝐚𝐭𝐞 𝐛𝐲 𝐤𝐚𝐢𝐝𝐨';
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -64,13 +64,12 @@ global.imagen0 = fs.readFileSync('./Nagiv2-brayans.jpg');
 global.imagen1 = fs.readFileSync('./NagiBot.jpg');
 global.catalogo = fs.readFileSync('./Private.png');
 
-// Owner : https://qu.ax/MKyTf.jpg
-
+// Owner : https://qu.ax/pYGaM.jpg
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.moneda = 'Yenes'
-global.banner = 'https://files.catbox.moe/almkk6.jpg'
-global.avatar = 'https://files.catbox.moe/k4cdwk.jpg'
+global.banner =  'https://qu.ax/pYGaM.jpg'
+global.avatar = 'https://qu.ax/pYGaM.jpg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -80,16 +79,16 @@ global.photoSity = [catalogo]
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.gp1 = 'https://whatsapp.com/channel/0029VajUPbECxoB0cYovo60W'
-global.comunidad1 = 'https://chat.whatsapp.com/DeJvBuS7QgB3Ybp1BZulWL'
+global.comunidad1 = 'https://whatsapp.com/channel/0029VajUPbECxoB0cYovo60W'
 global.channel = 'https://whatsapp.com/channel/0029VajUPbECxoB0cYovo60W'
 global.channel2 = 'https://whatsapp.com/channel/0029VajUPbECxoB0cYovo60W'
-global.md = 'https://github.com/El-brayan502/NagiBotV3'
-global.correo = 'brayanfree881@gmail.com'
+global.md = ''
+global.correo = 'Carlosdejesusferrerteran@gmail.com'
 global.cn ='https://whatsapp.com/channel/0029Vb4cQJu2f3EB7BS7o11M';
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: packname, orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
+global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "584147200139-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: packname, orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 global.ch = {
 }
 
@@ -176,7 +175,7 @@ global.rpg = {
       iron: '⛓️ Hierro',
       coal: '🌑 Carbón',
       stone: '🪨 Piedra',
-      potion: '🥤 Poción',
+      potion: '🧉 Poción',
     };
     const results = Object.keys(emot).map((v) => [v, new RegExp(v, 'gi')]).filter((v) => v[1].test(string));
     if (!results.length) return '';
