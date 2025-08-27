@@ -1,6 +1,6 @@
 <!-- Banner animado -->
 <p align="center">
-  <img src=https://qu.ax/pYGaM.jpg" alt="NagiBot Banner" width="100%"/>
+  <img src="https://qu.ax/pYGaM.jpg" alt="NagiBot Banner" width="100%"/>
 </p>
 
 <h1 align="center">⚡ NagiBotV2 - WhatsApp Multi-Device Bot</h1>
