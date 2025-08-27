@@ -3,7 +3,7 @@
   <img src="https://qu.ax/pYGaM.jpg" alt="NagiBot Banner" width="100%"/>
 </p>
 
-<h1 align="center">Satoru-Bot -El Mejor Bot de WhatsApp </h1>
+<h1 align="center">Satoru-Bot </h1>
 
 <p align="center">
   <b>El bot más versátil para WhatsAppp con comandos avanzados.</b><br>
